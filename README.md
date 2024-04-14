@@ -19,3 +19,7 @@ CW Decode Module:
 Case:
 
 ![Screenshot 2024-04-14 174959](https://github.com/ke0ttgantennas/KE0TTG-Micro-40-TRX/assets/166951449/c0772bbe-ed59-4716-903f-3fc90740502c)
+
+
+
+BOM:
