@@ -23,3 +23,4 @@ Case:
 
 
 BOM:
+https://github.com/ke0ttgantennas/KE0TTG-Micro-40-TRX/blob/main/PCB_micro%2040%20TRX%20V0.2_2_rev0.html
