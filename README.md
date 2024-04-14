@@ -1,5 +1,7 @@
 # KE0TTG-Micro-40-TRX
-a smaller version  of the popular Pixie CW Transciver with intigrated CW Decoder powered by the SEEED Studio ESP32 micro controler. later WIFI Keyboard integration planned aswell a proper VFO Controled by a si5351A. The ESP32 functions not only to decode the incoming CW messages But also to Allow other forms of Keys to be used.
+a version  of the popular Pixie CW Transciver with intigrated CW Decoder powered by the SEEED Studio ESP32 micro controler. later WIFI Keyboard integration planned aswell a proper VFO Controled by a si5351A. The ESP32 functions not only to decode the incoming CW messages But also to Allow other forms of Keys to be used.
+
+Planned to make with mostly SMD to achive the Micro Format. hoping to get near the Tranciver size that K6ARK was able to achive in his build. The hope is to have a all in one Transciver, Decoder, and Keyer all in a 30mm  rectangular footprint. making all componants of the tranciver capable of being mounted directly under the OLED display allowing for an extreamly low profile and Micro Format. 
 
 
 Main PCB:
