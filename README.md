@@ -5,6 +5,8 @@ Planned to make with mostly SMD to achive the Micro Format. hoping to get near t
 
 Mock-up of Hoped Format:
 V0.3
+
+
 ![Screenshot 2024-04-14 194307](https://github.com/ke0ttgantennas/KE0TTG-Micro-40-TRX/assets/166951449/4766eac4-00fd-4c15-b95c-36aaef52f64f)
 
 
